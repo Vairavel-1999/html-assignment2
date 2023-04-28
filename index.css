@@ -1,0 +1,91 @@
+.main{
+    background-color: black;
+    height:"600 px";
+}
+
+a{
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+.pragraph{
+    color: white;
+}
+
+.v{
+    padding: 100px 1px 100px 1px;
+}
+row{
+    color:white;
+}
+.vel{
+    padding-top: 60px;
+}
+
+.vel1{
+    padding-top: 153px;
+}
+
+.v1{
+    padding: 55px 10px 10px 376px;
+}
+
+.main1{
+    background-color: black;
+    height:"300 px";
+}
+.items-center {
+    align-items: center!important;
+}
+
+.flex {
+    display: flex!important;
+}
+
+.mt-8 {
+    margin-top: 2rem!important;
+}
+
+.border-t {
+    border: 1px solid #cacaca;
+}
+.flex-auto {
+    flex: 1 1 auto!important;
+}
+.mt-px {
+    margin-top: 1px!important;
+}
+
+.mx-2 {
+    margin-left: 0.5rem!important;
+    margin-right: 0.5rem!important;
+}
+
+.text-secondary {
+    --tw-text-opacity: 1 !important;
+    color: rgba(var(--fuse-text-secondary-rgb),var(--tw-text-opacity))!important;
+}
+.border-t1 {
+    border: 1px solid #cacaca;
+   padding: 1px;
+}
+ .box-inside{
+    background-color:white;
+    
+    
+    /* margin: 20px; */
+} 
+
+.ssk{
+    padding: 55px;
+}
+.l{
+    color:blue;
+}
+.main2{
+    background-color: black;
+    width:"300 px";
+}
